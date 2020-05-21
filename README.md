@@ -41,6 +41,14 @@ Many open source projects out there don't have open governance, some do and for 
 * https://github.com/nodejs/node/blob/master/GOVERNANCE.md
 * https://prometheus.io/governance/
 
+### Tools
+
+These tools can help facilitate the development of good governance norms.
+
+* https://www.betterworktogether.co/
+* https://communityrule.info
+* https://contributor-covenant.org/
+
 ### Foundations
 
 Most open source foundations exhibit open governance via their bylaws and/or charter:
